@@ -139,6 +139,7 @@ const bind = useScroll(handler, {
   drag: true,
   pinch: true,
   scroll: true,
+  hover: true,
   wheel: true,
   move: true
 })
